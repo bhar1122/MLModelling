@@ -1,0 +1,16 @@
+1. Kaggle DataSet : Resturant Revenue Prediction (TGI),Linear Reg,Elastic Net ,Linear Reg - PCA,Gradient Boosting ,XGBReg,RandomForestRegressor,RFBestParam
+Train RMSE,"17,34,393","19,79,256","17,34,393","3,95,417","19,57,064","17,14,783","17,46,864"
+Validation RMSE,"35,60,854","34,33,869","35,60,854","32,21,380","35,15,475","35,02,726","35,22,924"
+Winning Model on Kaggle post uploading test resullts ,,,,,,,
+,,,,,,,
+2. Kaggle DataSet : Whats Cooking ,SVC,Random Forest,SGD,,,,
+Train Accuracy,91%,100%,83%,,,,
+Validation Accuracy,78%,70%,76%,,,,
+Winning Model on Kaggle post uploading test resullts ,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+3. Vidhya Analytics Competition DataSet : Big Mart Sales ,SVM,SVM-Hypermeter Tuning ,Transformed Target Regression,XGBoost with Transformed Target Regressor,,,
+Train RMSE,1663,1747,1142,1083,,,
+Validation RMSE,1637,1719,1133,955,,,
+Winning Model on Vidhya Analytics post uploading test resullts ,,,,,,,
